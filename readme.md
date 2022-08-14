@@ -2,6 +2,6 @@
 ## Data Modeling
 ![ERD](erd.gif)
 ## Data Engineering
-[Table Schemas](EmployeeSQL\table schemas)
+[Table Schemas](/EmployeeSQL/table%20schemas)
 ## Data Analysis
 ## Bonus
