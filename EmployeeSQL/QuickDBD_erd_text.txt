@@ -1,0 +1,35 @@
+Titles
+--
+title_id varchar(10)
+title varchar(50)
+
+Department
+--
+dept_no varchar(10)
+dept_name varchar(50)
+
+Employees
+--
+emp_no int
+emp_title_id varchar(10) FK - Titles.title_id
+birth_date date
+first_name varchar(50)
+last_name varchar(50)
+sex varchar(10)
+hire_date date
+
+Salaries
+--
+emp_no int FK - Employees.emp_no
+salary decimal(10,2)
+
+Dept_Employee
+--
+emp_no int FK - Employees.emp_no
+dept_no varchar(10) FK - Department.dept_no
+
+Dept_Manager
+--
+dept_no varchar(10) FK 0- Department.dept_no
+emp_no int FK 0- Employees.emp_no
+
