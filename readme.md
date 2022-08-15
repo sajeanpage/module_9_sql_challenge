@@ -22,3 +22,4 @@
   - [DA7_Employee_Sales_and_Dev_Dept](/EmployeeSQL/queries/DA7_Employee_Sales_and_Dev_Dept.sql)
   - [DA8_Employee_Last_Name_Freq](/EmployeeSQL/queries/DA8_Employee_Last_Name_Freq.sql)
 ## Bonus
+![AVG](avg_salary_by_title.png)
