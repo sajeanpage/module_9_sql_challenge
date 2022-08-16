@@ -23,3 +23,5 @@
   - [DA8_Employee_Last_Name_Freq](/EmployeeSQL/queries/DA8_Employee_Last_Name_Freq.sql)
 ## Bonus
 ![b1_full_histogram](/Bonus/b1_full_histogram.png)
+![b4_histogram_exclude_40000](/Bonus/b4_histogram_exclude_40000.png)
+![b5_average_salary](/Bonus/b5_average_salary.png)
