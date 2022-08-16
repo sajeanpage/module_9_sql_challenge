@@ -1,4 +1,7 @@
 # Module 9 - SQL Challenge
+## Summary
+- As a new data engineer at Pewlett Hackard. I was asked to do a research project about people whom the company employed during the 1980s and 1990s from the six remaining CSV files from the employee database of that period.  I performed data modeling, data engineering, and data analysis on the data.
+- But, there was something unusual about the data.
 ## Data Modeling
 ![ERD](erd.gif)
 ## Data Engineering
